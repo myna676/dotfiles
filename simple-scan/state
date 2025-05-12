@@ -1,0 +1,8 @@
+[window]
+width=937
+height=993
+is-maximized=true
+is-fullscreen=false
+
+[scanner]
+scan-type=single

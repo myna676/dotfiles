@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "campaigns": [
+    {
+      "campaignId": "a61384e2-e8ae-4c79-86a9-f9c36a647955",
+      "logo": {
+        "imageUrl": "c06605e6-cadd-463b-b7aa-223dde738874.png",
+        "destinationUrl": "https://x.com/MidnightNtwrk?utm_source=Brave&utm_medium=SponsoredImage&utm_id=PBW",
+        "alt": "Unlock the Full Potential of the Decentralized Web. Follow us on X.",
+        "companyName": "midnight"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "cb53e7f4-2146-490d-9702-87bdf7876224.jpg",
+          "creativeInstanceId": "022fb0d9-1a2c-469a-82da-692a538c5f37",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          }
+        },
+        {
+          "imageUrl": "f98c96e3-04ec-457c-acea-ccf09a7f6de9.jpg",
+          "creativeInstanceId": "aa19d7f3-95bd-44b8-8298-eb2afefb761b",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "d98d61e1-b799-4e39-a758-d52180c1a517.png",
+            "destinationUrl": "https://midnight.network/developer-hub?utm_source=Brave&utm_medium=SponsoredImage&utm_id=PBW",
+            "alt": "Build better apps with zero-knowledge. Learn More.",
+            "companyName": "midnight"
+          }
+        },
+        {
+          "imageUrl": "67a38f80-ae8e-4eac-b983-c9fc6f3151b3.jpg",
+          "creativeInstanceId": "fe9d036b-b761-44de-977f-9c61d8055ada",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "e3ff3a38-6d0c-4c5d-a72e-7b898ead091d.png",
+            "destinationUrl": "https://midnight.network/whitepaper?utm_source=Brave&utm_medium=SponsoredImage&utm_id=PBW",
+            "alt": "Discover the architecture, tech, & roadmap in the Midnight Nightpaper. Learn more.",
+            "companyName": "midnight"
+          }
+        }
+      ]
+    }
+  ],
+  "campaigns2": [
+    {
+      "campaignId": "a61384e2-e8ae-4c79-86a9-f9c36a647955",
+      "logo": {
+        "imageUrl": "c06605e6-cadd-463b-b7aa-223dde738874.png",
+        "destinationUrl": "https://x.com/MidnightNtwrk?utm_source=Brave&utm_medium=SponsoredImage&utm_id=PBW",
+        "alt": "Unlock the Full Potential of the Decentralized Web. Follow us on X.",
+        "companyName": "midnight"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "cb53e7f4-2146-490d-9702-87bdf7876224.jpg",
+          "creativeInstanceId": "022fb0d9-1a2c-469a-82da-692a538c5f37",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          }
+        },
+        {
+          "imageUrl": "f98c96e3-04ec-457c-acea-ccf09a7f6de9.jpg",
+          "creativeInstanceId": "aa19d7f3-95bd-44b8-8298-eb2afefb761b",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "d98d61e1-b799-4e39-a758-d52180c1a517.png",
+            "destinationUrl": "https://midnight.network/developer-hub?utm_source=Brave&utm_medium=SponsoredImage&utm_id=PBW",
+            "alt": "Build better apps with zero-knowledge. Learn More.",
+            "companyName": "midnight"
+          }
+        },
+        {
+          "imageUrl": "67a38f80-ae8e-4eac-b983-c9fc6f3151b3.jpg",
+          "creativeInstanceId": "fe9d036b-b761-44de-977f-9c61d8055ada",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "e3ff3a38-6d0c-4c5d-a72e-7b898ead091d.png",
+            "destinationUrl": "https://midnight.network/whitepaper?utm_source=Brave&utm_medium=SponsoredImage&utm_id=PBW",
+            "alt": "Discover the architecture, tech, & roadmap in the Midnight Nightpaper. Learn more.",
+            "companyName": "midnight"
+          }
+        }
+      ]
+    }
+  ]
+}

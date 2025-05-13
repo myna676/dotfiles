@@ -1,0 +1,45 @@
+2025/05/13-18:48:01.827 dc7 Reusing MANIFEST /home/unix/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/MANIFEST-000001
+2025/05/13-18:48:01.827 dc7 Recovering log #21
+2025/05/13-18:48:01.837 dc7 Reusing old log /home/unix/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/000021.log 
+2025/05/13-18:51:03.352 dc7 Level-0 table #27: started
+2025/05/13-18:51:03.383 dc7 Level-0 table #27: 248470 bytes OK
+2025/05/13-18:51:03.393 dc7 Delete type=0 #21
+2025/05/13-18:56:03.700 dc7 Level-0 table #29: started
+2025/05/13-18:56:03.722 dc7 Level-0 table #29: 245388 bytes OK
+2025/05/13-18:56:03.730 dc7 Delete type=0 #26
+2025/05/13-19:05:04.220 dc7 Compacting 1@0 + 1@1 files
+2025/05/13-19:05:04.252 dc7 Generated table #30@0: 22 keys, 50633 bytes
+2025/05/13-19:05:04.253 dc7 Compacted 1@0 + 1@1 files => 50633 bytes
+2025/05/13-19:05:04.258 dc7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/13-19:05:04.260 dc7 Delete type=2 #27
+2025/05/13-19:05:04.261 dc7 Delete type=2 #29
+2025/05/13-19:27:21.168 dc6 Compacting 1@1 + 1@2 files
+2025/05/13-19:27:21.175 dc6 Generated table #31@1: 8 keys, 50264 bytes
+2025/05/13-19:27:21.175 dc6 Compacted 1@1 + 1@2 files => 50264 bytes
+2025/05/13-19:27:21.180 dc6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/13-19:27:21.180 dc6 Delete type=2 #24
+2025/05/13-19:27:21.180 dc6 Delete type=2 #30
+2025/05/13-19:32:40.350 dc6 Level-0 table #33: started
+2025/05/13-19:32:40.358 dc6 Level-0 table #33: 253844 bytes OK
+2025/05/13-19:32:40.363 dc6 Delete type=0 #28
+2025/05/13-19:38:25.442 dc7 Level-0 table #35: started
+2025/05/13-19:38:25.470 dc7 Level-0 table #35: 249865 bytes OK
+2025/05/13-19:38:25.477 dc7 Delete type=0 #32
+2025/05/13-19:46:05.710 dc7 Compacting 1@0 + 1@1 files
+2025/05/13-19:46:05.741 dc7 Generated table #36@0: 34 keys, 55697 bytes
+2025/05/13-19:46:05.742 dc7 Compacted 1@0 + 1@1 files => 55697 bytes
+2025/05/13-19:46:05.746 dc7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/13-19:46:05.747 dc7 Delete type=2 #33
+2025/05/13-19:46:05.747 dc7 Delete type=2 #35
+2025/05/13-20:10:00.871 dc7 Level-0 table #38: started
+2025/05/13-20:10:00.884 dc7 Level-0 table #38: 257986 bytes OK
+2025/05/13-20:10:00.889 dc7 Delete type=0 #34
+2025/05/13-20:21:51.096 dc7 Compacting 1@0 + 1@1 files
+2025/05/13-20:21:51.109 dc7 Generated table #39@0: 51 keys, 60644 bytes
+2025/05/13-20:21:51.109 dc7 Compacted 1@0 + 1@1 files => 60644 bytes
+2025/05/13-20:21:51.114 dc7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/13-20:21:51.114 dc7 Delete type=2 #36
+2025/05/13-20:21:51.114 dc7 Delete type=2 #38
+2025/05/13-20:29:00.947 dc7 Level-0 table #41: started
+2025/05/13-20:29:00.965 dc7 Level-0 table #41: 249093 bytes OK
+2025/05/13-20:29:00.972 dc7 Delete type=0 #37

@@ -1,0 +1,21 @@
+2025/05/13-19:13:25.251 dd4 Reusing MANIFEST /home/unix/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/13-19:13:25.251 dd4 Recovering log #10
+2025/05/13-19:13:25.263 dd4 Reusing old log /home/unix/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000010.log 
+2025/05/13-19:13:26.793 dc7 Level-0 table #15: started
+2025/05/13-19:13:26.821 dc7 Level-0 table #15: 1690499 bytes OK
+2025/05/13-19:13:26.827 dc7 Delete type=0 #10
+2025/05/13-19:13:32.086 dc8 Compacting 1@1 + 1@2 files
+2025/05/13-19:13:32.116 dc8 Generated table #16@1: 319 keys, 50887 bytes
+2025/05/13-19:13:32.116 dc8 Compacted 1@1 + 1@2 files => 50887 bytes
+2025/05/13-19:13:32.120 dc8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/13-19:13:32.121 dc8 Delete type=2 #12
+2025/05/13-19:13:32.121 dc8 Delete type=2 #15
+2025/05/13-19:30:03.028 dc7 Level-0 table #18: started
+2025/05/13-19:30:03.046 dc7 Level-0 table #18: 1020816 bytes OK
+2025/05/13-19:30:03.051 dc7 Delete type=0 #14
+2025/05/13-19:46:54.440 dc7 Compacting 1@1 + 1@2 files
+2025/05/13-19:46:54.448 dc7 Generated table #19@1: 348 keys, 30841 bytes
+2025/05/13-19:46:54.448 dc7 Compacted 1@1 + 1@2 files => 30841 bytes
+2025/05/13-19:46:54.453 dc7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/13-19:46:54.454 dc7 Delete type=2 #16
+2025/05/13-19:46:54.454 dc7 Delete type=2 #18

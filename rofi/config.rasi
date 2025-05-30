@@ -1,0 +1,43 @@
+configuration {
+  modes: [ combi, drun ];
+  combi-modes: [ window, drun, run ];
+  show-icons: true;
+  icon-theme: "Papirus"; // or any installed icon theme
+  font: 'jetbrains mono 16';
+}
+
+
+*{
+  horizontal-align: 0.5;
+  background: transparent;
+  text-color: #E5C76B;
+  border-color: #E5C76B;
+}
+
+window {
+  border-radius: 15px;
+  background-color: #050708;
+}
+
+inputbar {
+  padding: 10px 5px 10px 5px;
+  horizontal-align: 0.5;
+}
+
+element {
+  orientation: horizontal;
+  children: [ element-text ];
+  spacing: 5px;
+  horizontal-align: 0.5;
+  background-color: transparent;
+  alternate-normal-background: transparent;
+  text-color: #E5C76B;
+  border-color: #E5C76B;
+}
+
+element.alternate.normal{
+  background-color: transparent;
+  text-color: #E5C76B;
+  border-color: #E5C76B;
+}
+
